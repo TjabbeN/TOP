@@ -148,7 +148,7 @@ Start time,End time,Titel,Kunstenaar,Image,Description
 1989,1989,Wind turbine bering strait,Luc Deleu,,
 1989,1989,Sint-joost Academy,Luc Deleu,,
 1989,1989,HST Hoog Catharijne,Luc Deleu,,
-1990,1990,The Portuguese Man of War,Panamarenko,https://s3.amazonaws.com/mhka_ensembles_production/assets/public/000/024/292/large/Portuguese_Man_Of_War_-_sculptuur.jpg?1407504096,
+1990,1990,The Portuguese Man of War,Panamarenko,"https://s3.amazonaws.com/mhka_ensembles_production/assets/public/000/024/292/large/Portuguese_Man_Of_War_-_sculptuur.jpg?1407504096",
 1990,1990,ARCHAEOPTERYX II,Panamarenko,,
 1990,1990,Antwerp, your next cruise stop!,Luc Deleu,,
 1990,1990,Boat lift,Luc Deleu,,
@@ -289,3 +289,4 @@ Start time,End time,Titel,Kunstenaar,Image,Description
 2011,2011,Wuivende Krabben,Panamarenko,https://images.vrt.be/vrtnws_web/2021/11/24/ae6be503-4d33-11ec-b07d-02b7b76bf47f.jpg?width=1200&height=675,
 2011,2011,Provincial House Antwerp,Luc Deleu,,
 2011,2011,Matternhorn,Luc Deleu,,
+
